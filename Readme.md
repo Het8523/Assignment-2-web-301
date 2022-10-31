@@ -4,3 +4,18 @@ Your name: Hetkumar Atulbhai Patel
 Your phone model: Iphone 14 Pro
 Resolution:390*844
 
+Started file added to github
+
+Circkek.css file created 
+
+error solved
+
+uploaded to github
+
+Shell.css created
+
+Coading done 
+
+Mistake found i have created wrong file formate and changed to css files to html
+
+
