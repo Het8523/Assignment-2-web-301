@@ -4,7 +4,7 @@ Your name: Hetkumar Atulbhai Patel
 Your phone model: Iphone 14 Pro
 Resolution:390*844
 
-Started file added to github
+Starter file added to github
 
 Circkek.css file created 
 
@@ -16,12 +16,19 @@ Shell.css created
 
 Coading done 
 
-Mistake found i have created wrong file formate and changed to css files to html
+Mistake found i have created wrong file formate and changed css files to html
 
-Circkk and Shell Contant added
+Circlk and Shell Contant added
 
 Third one PetroCanada.html created
 
 Contant Added
 
+Grid.css created
+
+Used Your code in grid.css
+
+Images Download then linked
+
+Done with coading and linked all files
 
